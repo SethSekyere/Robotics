@@ -31,7 +31,9 @@ Li-Po Battery / Power Source
 **Step 2: Upload the Code**
 Upload transmitter.ino to the Arduino connected to MPU6050.
 Upload receiver.ino to the Arduino controlling the motors.
-Step 3: Power Up & Test
+
+
+**Step 3: Power Up & Test**
 Turn on both Arduinos.
 Tilt the transmitter to move the robot accordingly.
 If everything is working correctly, the robot should move in response to hand gestures!
